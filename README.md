@@ -5,19 +5,10 @@ This script helps you to install Clonezilla Live to a bootable usb stick on OSX.
 ## Usage: 
 
 1. Fire up a terminal
-2. Clone repo:
-```
-    git clone https://github.com/daccle/osx_clonezilla_usb_installer.git
-```
-3. Move to directory:
-```
-    cd osx_clonezilla_usb_installer
-```
+2. Clone repo: `git clone https://github.com/daccle/osx_clonezilla_usb_installer.git`
+3. Move to directory:`cd osx_clonezilla_usb_installer`
 4. Insert USB stick into computer.
-5. Start script:
-```
-    ./clonezilla_usb_installer.sh
-```
+5. Start script:`./clonezilla_usb_installer.sh`
 6. Follow the instructions on the prompt.
 
 ## DISCLAIMER
