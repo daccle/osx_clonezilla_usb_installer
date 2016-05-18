@@ -23,18 +23,18 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-### TO UPDATE TO CLONEZILLA VERSIONS BEIGN USED CHANGE THE FOLLOWING LINES
+### TO UPDATE TO CLONEZILLA VERSIONS BEING USED CHANGE THE FOLLOWING LINES
 
-i686_file="clonezilla-live-2.3.2-22-i686-pae.iso"
-i686_md5="6a0951f5d1c4a7d1f7ff1dde95f31e18"
+i686_file="clonezilla-live-2.4.5-23-i686-pae.iso"
+i686_md5="931d37475e25f8903f5449a5cd9a9162"
 
-i586_file="clonezilla-live-2.3.2-22-i586.iso"
-i586_md5="444e4aed940bdc43073024ced2bf4035"
+i586_file="clonezilla-live-2.4.5-23-i686.iso"
+i586_md5="c7001f664968b828cad90b42d029d39d"
 
-amd64_file="clonezilla-live-2.3.2-22-amd64.iso"
-amd64_md5="c18e3a27725a7b22b82e022eef44b688"
+amd64_file="clonezilla-live-2.4.5-23-amd64.iso"
+amd64_md5="1b9d8321d4a54280db7838c91600f601"
 
-sourceforge_url="http://downloads.sourceforge.net/project/clonezilla/clonezilla_live_stable/2.3.2-22/"
+sourceforge_url="http://downloads.sourceforge.net/project/clonezilla/clonezilla_live_stable/2.4.5-23/"
 
 ### NO CHANGES NEEDED BELOW THESE LINES
 
@@ -84,7 +84,7 @@ fi
 
 echo "Which version of Clonezilla would you like to write to ${usb_device}"
 echo ""
-echo "1 = i586"
+echo "1 = i686"
 echo "2 = i686-pae"
 echo "3 = amd64"
 echo ""
